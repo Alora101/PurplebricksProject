@@ -43,7 +43,7 @@ public class SendMail
                 		            cc,
                 		            bcc,
                 		            "Automation test Reports",
-                		            "Please find the reports attached.\n\n Regards\nSeni",
+                		            "Please find the reports attached.",
                 		        	System.getProperty("user.dir")+"\\email_xlst_reports.rar",
                 		        	"email_xlst_reports.rar");
            
